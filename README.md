@@ -1,1 +1,2 @@
-AllData.csv : CPA, NDVI, GRVI, Height, DBH, Bole, Crown, SPAD
+AllData.csv : CPA, NDVI, GRVI,	Height (m),	Bole (m),	DBH (cm),	Crown (m),	SPAD
+
